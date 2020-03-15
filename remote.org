@@ -1,0 +1,72 @@
+#+title: How to work remote ...
+#+subtitle: ... and stay sane!!!
+#+date: <2020-03-10 Tue>
+#+author: Roland Tritsch
+#+email: roland@tritsch.org
+#+options: timestamp:t date:nil title:t author:t
+#+options: toc:nil num:nil
+#+reveal_theme: sky
+
+* First day
+
+* First week
+
+* First month
+
+* Getting ready
+
+** Tools and infrastructure
+
+** Proccesses and behaviors
+
+** Tips and tricks
+
+* Appendix
+
+** Resources
+
+* Notes
+
+   - Good tools and infrastructure
+     - Good internet
+       - 10Mbit/sec up/down, low latency, high uptime
+     - Good audio
+     - Separate workspace
+     - Slack, Zoom, ...
+     - Good chair, good (stand-up) desk
+   - Good behaviors
+     - (Fight the isolation/lonelyness/cabin-fever)
+     - Daily standups (on zoom)
+     - Do small-talk/chit-chat/coffee-cooler (on slack)
+       - Make/take time for it.
+       - It's ok to chat!
+       - It is important!!!
+     - (Over-)Communicate
+       - On Slack ("Going to walk the dog. Back in 30 ...")
+         - Use the status. Use clockwise
+     - Stay fit/healthy - Excersise, Walk, Run, ...
+     - Eat/drink well - Water, fruit, ...
+     - See/meet friends/other people (at least once a week)
+     - Do not work too much
+       - Start/stop working at given times
+       - Have/do a lunch break (take a walk, do a run, ...)
+       - Put a (time) structure into your day (start your day with the same thing(s) every day (just to get going))
+     - Do not work too less
+       - (Keep on) Working (hard)
+       - (Fight procrastination)
+       - (Fight the distractions)
+       - Working from home means you are much more in control of what you do, when you do it, how you do it
+         - You are less driven (by outside stimulus), but need to be the driver (to get things done)
+   - Good meetings
+     - Shorten the meetings
+     - Learn how to use Zoom
+       - Backgrounds
+       - Mute
+       - Raise the hand
+       - Chat
+       - Recording
+       - Share the screen (with annotations)
+       - Whiteboard
+   - Other tips and tricks
+     - Find a starbucks that you like (but make sure it got good wifi)
+       - Use speedtest to check it
