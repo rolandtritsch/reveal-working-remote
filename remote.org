@@ -5,68 +5,112 @@
 #+email: roland@tritsch.org
 #+options: timestamp:t date:nil title:t author:t
 #+options: toc:nil num:nil
-#+reveal_theme: sky
+#+reveal_theme: simple
 
 * First day
 
+  - ???
+  - ???
+  - ???
+
 * First week
 
+  - Start/stop your day at the same time
+    - With the same (30 min) task
+    - Something that you like to do
+  - Go/get out once a day
+    - For a walk, run, work-out or a coffee
+  - Learn how to use zoom
+  - Learn how to use slack
+    - Get the balance right between it (slack) constantly disrupting you and it being your life-line to the rest of the company
+
 * First month
+
+  - Start to do small-talk, chit-chat, coffee-cooler (on slack)
+    - Make/take time for it. It's ok to chat! It is important!!!
+  - (Over-)Communicate
+    - On Slack ("AFK. Going to walk the dog. Back in 30 ...")
+      - Use the status. Use clockwise
+
+* First quarter
+
+  - ???
+  - ???
+  - ???
 
 * Getting ready
 
 ** Tools and infrastructure
+   - Make sure you have a good internet connection
+     - 10Mbit/sec up/down, low latency, high uptime
+     - use [[https://fast.com/#][FAST]] to test it
+     - Pro tip: Make sure you can turn your phone into a hotspot (as a backup in case your WLAN at home stops working)
+   - Make sure you have a [[https://onezero.medium.com/2019s-best-gaming-headsets-4f440261a159][good headset]] (with a good mic)
+     - This is not to make your live better, but will improve the experience for everybody that will be on the call with you
+     - Pro tip: Do *NOT* get a wireless headset. If you have a call with 10 people and they have wireless headsets one of them will run out of battery in the middle of the call
+   - Make sure you have a dedicated, separate workspace
+     - A room, a desk, a corner, ...
+     - Good chair, good (stand-up) desk, ...
+     - Good keyboard, good screen, ...
+   - Slack, Zoom, Phone, ...
+     - Everything you need to stay connected
+     - Pro tip: Use [[https://www.getclockwise.com/][clockwise]] to sync your cal with your slack status (and put everything that you do into your cal; that way you can also see what you have spend your time on)
 
-** Proccesses and behaviors
+** Processes and behaviors
+
+   - Set boundaries for yourself
+     - Do not work too much (find a way to stop). Do not prograstinate (find a way to start)
+       - Put a meeting into your cal to start the day. Put dinner into your cal to stop the day
+   - Set boundaries with/for the rest of the family
+     - Spouses, kids, dogs, ...
+     - I am working from home. That means that you have to stay out of this room from 9am to 12pm and from 1pm to 6pm. If you want/need something, please write it down. We can talk about it at lunch time or during dinner
+   - Know yourself
+     - Extrovert - will feel frustrated (initially), because you need to (re)learn how to interact
+     - Introvert - will like it (initially), but will feel lonely (after a while)
+     - Prograstinator - Ooohhh boy ...
+     - ???
+   - Stop your day with 30 mins, were you plan how you will start your next day (what do you want to achieve by noon the next day)
 
 ** Tips and tricks
+
+   - Find a place nearby (20 - 30 mins walking distance) to work from (coffee shop with a good internet connection (test it))
+   - Excersise (once a day)
 
 * Appendix
 
 ** Resources
 
-* Notes
+   - [[https://github.com/lukasz-madon/awesome-remote-job][Awesome]] list
 
-   - Good tools and infrastructure
-     - Good internet
-       - 10Mbit/sec up/down, low latency, high uptime
-     - Good audio
-     - Separate workspace
-     - Slack, Zoom, ...
-     - Good chair, good (stand-up) desk
-   - Good behaviors
-     - (Fight the isolation/lonelyness/cabin-fever)
-     - Daily standups (on zoom)
-     - Do small-talk/chit-chat/coffee-cooler (on slack)
-       - Make/take time for it.
-       - It's ok to chat!
-       - It is important!!!
-     - (Over-)Communicate
-       - On Slack ("Going to walk the dog. Back in 30 ...")
-         - Use the status. Use clockwise
-     - Stay fit/healthy - Excersise, Walk, Run, ...
-     - Eat/drink well - Water, fruit, ...
-     - See/meet friends/other people (at least once a week)
-     - Do not work too much
-       - Start/stop working at given times
-       - Have/do a lunch break (take a walk, do a run, ...)
-       - Put a (time) structure into your day (start your day with the same thing(s) every day (just to get going))
-     - Do not work too less
-       - (Keep on) Working (hard)
-       - (Fight procrastination)
-       - (Fight the distractions)
-       - Working from home means you are much more in control of what you do, when you do it, how you do it
-         - You are less driven (by outside stimulus), but need to be the driver (to get things done)
-   - Good meetings
-     - Shorten the meetings
-     - Learn how to use Zoom
-       - Backgrounds
-       - Mute
-       - Raise the hand
-       - Chat
-       - Recording
-       - Share the screen (with annotations)
-       - Whiteboard
-   - Other tips and tricks
-     - Find a starbucks that you like (but make sure it got good wifi)
-       - Use speedtest to check it
+** Meetings
+
+   - Show up on time (and that probably means 2 mins before the call starts)
+   - Dial in using laptop (not phones)
+   - Use headphones (with boom mic)
+   - Video on when possible, you’re a human let’s see your face
+   - Test your setup before the meeting (camera, headset, internet, ...)
+
+** Productivity
+
+   - Self-discipline and staying organized
+   - Balance being online and available to unblock your teammates vs being heads-down on your own work
+   - Favor async communication
+     - Tiers of communication? I.e. text for immediate response, Slack for quick response, email for 24hrs+
+
+** Slack
+
+   - ???
+   - ???
+   - ???
+
+** Zoom
+
+   - Backgrounds
+   - Mute
+   - Raise the hand
+   - Chat
+   - Recording
+   - Share the screen (with annotations)
+   - Whiteboard
+   - Camera on
+   - Install it on your mobile phone
